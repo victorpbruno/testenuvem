@@ -25,7 +25,7 @@ app.get('/sobre', (req, res) => {
       </head>
       <body>
         <h1>Rota 2</h1>
-        <p>Esta é a rota 2</p>
+        <p>Esta é a rota sobre</p>
       </body>
     </html>
   `);
